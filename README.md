@@ -7,3 +7,4 @@ at Santa Monica College (Fall 2026).
 - Module 2: Python Foundations
 - Module 3: Data Cleaning
 - Module 4: Statistics That Answer Questions
+- Module 5: Visualization and Statistical Analysis in Python
