@@ -3,6 +3,12 @@
 Labs and final project from CS 82A: Introduction to Data Science
 at Santa Monica College (Fall 2026).
 
+I am interested in business and financial analytics and am
+looking for an entry level analyst role.
+
+**Tools:** Python, pandas, matplotlib,
+seaborn, scikit-learn, SQL, Jupyter
+
 ## Contents
 - Module 2: Python Foundations
 - Module 3: Data Cleaning
