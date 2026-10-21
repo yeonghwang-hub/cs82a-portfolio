@@ -10,6 +10,7 @@ looking for an entry level analyst role.
 seaborn, scikit-learn, SQL, Jupyter
 
 ## Contents
+- Final Project: Which factor has the most influence on a marathon?
 - Module 2: Python Foundations
 - Module 3: Data Cleaning
 - Module 4: Statistics That Answer Questions
