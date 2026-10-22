@@ -9,7 +9,7 @@ How do age, nationality, and race location influence marathon finish times? Give
 
 ## Key Findings
 
-## Tech Stack:
+## Tech Stack
 - python
 - pandas
 - scikit-learn
