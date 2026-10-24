@@ -21,6 +21,11 @@ How do age, nationality, and race location influence marathon performance? Given
 
 3) Based on the heatmap, mean and median values for the top 10 cities with the most runners, it is likely that runners would perform better at Seoul Marathon than they would at Osaka Marathon.
 
+## How to Run
+bash
+jupyter notebook
+Restart Kernel and Run All Cells
+
 ## Tech Stack
 - python
 - pandas
